@@ -1,0 +1,11 @@
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.csprojResolveAssemblyReference.cache
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.csproj.CoreCompileInputs.cache
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.AssemblyInfoInputs.cache
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.AssemblyInfo.cs
+C:\Dev\StackTraceTestSolution\StackTraceTest\bin\Debug\netcoreapp2.0\StackTraceTest.deps.json
+C:\Dev\StackTraceTestSolution\StackTraceTest\bin\Debug\netcoreapp2.0\StackTraceTest.runtimeconfig.json
+C:\Dev\StackTraceTestSolution\StackTraceTest\bin\Debug\netcoreapp2.0\StackTraceTest.runtimeconfig.dev.json
+C:\Dev\StackTraceTestSolution\StackTraceTest\bin\Debug\netcoreapp2.0\StackTraceTest.dll
+C:\Dev\StackTraceTestSolution\StackTraceTest\bin\Debug\netcoreapp2.0\StackTraceTest.pdb
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.dll
+C:\Dev\StackTraceTestSolution\StackTraceTest\obj\Debug\netcoreapp2.0\StackTraceTest.pdb
